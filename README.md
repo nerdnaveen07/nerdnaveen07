@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Goku
+<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 - 👀 I’m interested in building stuff
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on MERN projects
